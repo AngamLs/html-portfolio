@@ -175,3 +175,14 @@ a:hover {
   border-radius: 15px;
   text-decoration: none;
 }
+
+@media only screen and (max-width: 480px) {
+  img[alt="mountain_image"] {
+    width: 55%;
+  }
+  h1:hover {
+    color: #176b87;
+    transform: scale(1);
+  }
+}
+
