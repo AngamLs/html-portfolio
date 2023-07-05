@@ -184,5 +184,7 @@ a:hover {
     color: #176b87;
     transform: scale(1);
   }
+  .bottom-cloud {
+    visibility: hidden;
 }
 
